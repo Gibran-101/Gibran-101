@@ -68,7 +68,6 @@ Whether it's setting up airtight CI/CD pipelines, infusing GenAI into DevOps wor
 ## 📰 Latest Blogs on Medium
 
 <!-- BLOG-POST-LIST:START -->
-<!-- These posts will be dynamically replaced -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
