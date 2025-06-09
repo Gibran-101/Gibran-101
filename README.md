@@ -68,6 +68,11 @@ Whether it's setting up airtight CI/CD pipelines, infusing GenAI into DevOps wor
 ## 📰 Latest Blogs on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Out of EC2 Storage? Here’s How I Resolved a Critical Docker Blocker Using Snapshots](https://devsecopsai.today/running-out-of-ec2-storage-heres-how-i-resolved-a-critical-docker-blocker-using-snapshots-76e7d55c84f9?source=rss-b43277850192------2)
+- [Week 04: Git and GitHub Basics](https://gibranf.medium.com/week-04-git-and-github-challenge-edf73b6f0988?source=rss-b43277850192------2)
+- [Week 2: Linux System Administration &amp; Automation](https://gibranf.medium.com/week-2-linux-system-administration-automation-37c4f1d6118c?source=rss-b43277850192------2)
+- [I Lost SSH Access to My EC2 and Recovered Everything — Here’s the Step-by-Step Fix](https://gibranf.medium.com/i-lost-ssh-access-to-my-ec2-and-recovered-everything-heres-the-step-by-step-fix-b8c228af31b9?source=rss-b43277850192------2)
+- [Breaking Down the Network: Layers, Commands, and Cloud Security](https://gibranf.medium.com/breaking-down-the-network-layers-commands-and-cloud-security-50ff356f0df1?source=rss-b43277850192------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
