@@ -18,9 +18,7 @@
 
 ## 🧩 Who Am I?
 
-I'm not just a DevOps enthusiast — I **engineer reliability**, **automate chaos**, and **design cloud-native ecosystems** that scale with precision.
-
-Whether it's setting up airtight CI/CD pipelines, infusing GenAI into DevOps workflows, or making Kubernetes dance to ArgoCD’s beat — I craft infra that feels like magic (but is just solid YAML).
+I'm a DevOps engineer with a strong command over shell scripting and Terraform, using both to automate and scale infrastructure with precision. Whether it's provisioning cloud-native environments or streamlining CI/CD pipelines, I focus on writing clean, modular code that makes systems predictable and maintainable. I value reliability, security, and simplicity — and I script like I mean it.
 
 ---
 
@@ -28,7 +26,7 @@ Whether it's setting up airtight CI/CD pipelines, infusing GenAI into DevOps wor
 
 - 🔐 **Enhancing Cloud Security** with automation-first policies  
 - 🧠 **Embedding GenAI** into infrastructure intelligence & monitoring  
-- 🔄 **Scaling GitOps** using ArgoCD and policy engines like Kyverno
+- 🛠️ Building resilient, script-driven infrastructure using Terraform and shell automation
 
 ---
 
@@ -80,7 +78,7 @@ Whether it's setting up airtight CI/CD pipelines, infusing GenAI into DevOps wor
 ## 💡 Let's Collaborate
 
 - 🧠 Building something in the **DevOps/Cloud/GenAI** intersection? Let’s talk.  
-- ✍️ I write **weekly DevOps content** on Medium & LinkedIn — tutorials, real-world insights, and memes (because YAML pain is real).  
+- ✍️ I write **weekly DevOps content** on Medium & LinkedIn — tutorials, real-world insights.  
 - 🔗 Connect via [LinkedIn](https://www.linkedin.com/in/gibranfahad00) or [email](mailto:gibranfahad07@gmail.com) to brainstorm, build, or break things together.
 
 ---
