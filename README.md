@@ -66,11 +66,11 @@ I'm a DevOps engineer with a strong command over shell scripting and Terraform, 
 ## 📰 Latest Blogs on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [From Pending to Running: Mastering Node Affinity in Kubernetes](https://devsecopsai.today/from-pending-to-running-mastering-node-affinity-in-kubernetes-2a42da83e93e?source=rss-b43277850192------2)
 - [Stop using the wrong Git command: Revert Vs Reset Vs Restore](https://devsecopsai.today/stop-using-the-wrong-git-command-revert-vs-reset-vs-restore-70996ca0e0b4?source=rss-b43277850192------2)
 - [Running Out of EC2 Storage? Here’s How I Resolved a Critical Docker Blocker Using Snapshots](https://devsecopsai.today/running-out-of-ec2-storage-heres-how-i-resolved-a-critical-docker-blocker-using-snapshots-76e7d55c84f9?source=rss-b43277850192------2)
 - [Week 04: Git and GitHub Basics](https://gibranf.medium.com/week-04-git-and-github-challenge-edf73b6f0988?source=rss-b43277850192------2)
 - [Week 2: Linux System Administration &amp; Automation](https://gibranf.medium.com/week-2-linux-system-administration-automation-37c4f1d6118c?source=rss-b43277850192------2)
-- [I Lost SSH Access to My EC2 and Recovered Everything — Here’s the Step-by-Step Fix](https://gibranf.medium.com/i-lost-ssh-access-to-my-ec2-and-recovered-everything-heres-the-step-by-step-fix-b8c228af31b9?source=rss-b43277850192------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
